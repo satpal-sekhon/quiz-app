@@ -1,0 +1,61 @@
+[{
+    "question": "In which technology this app is built?",
+    "options": [{
+        "option": "React JS",
+        "is_correct": true
+    },{
+        "option": "PHP",
+        "is_correct": false
+    }, {
+        "option": "Laravel",
+        "is_correct": false
+    }, {
+        "option": "Java",
+        "is_correct": false
+    }]
+}, {
+    "question": "Who is the PM of India?",
+    "options": [{
+        "option": "Bhagwant Maan",
+        "is_correct": false
+    },{
+        "option": "Narinder Modi",
+        "is_correct": true
+    }, {
+        "option": "Rahul Gandhi",
+        "is_correct": false
+    }, {
+        "option": "Rakesh Tiket",
+        "is_correct": false
+    }]
+}, {
+    "question": "Who is the CM of Punjab?",
+    "options": [{
+        "option": "Anmol Gagan Maan",
+        "is_correct": false
+    },{
+        "option": "Charanjeet Singh Channi",
+        "is_correct": false
+    }, {
+        "option": "Bhagwant Maan",
+        "is_correct": true
+    }, {
+        "option": "Sukhbir Singh Badal",
+        "is_correct": false
+    }]
+}, {
+    "question": "Where is the Mohali located?",
+    "options": [{
+        "option": "Punjab",
+        "is_correct": true
+    },{
+        "option": "Maharashta",
+        "is_correct": false
+    }, {
+        "option": "Gujrat",
+        "is_correct": false
+    }, {
+        "option": "Rajasthan",
+        "is_correct": false
+    }]
+}]
